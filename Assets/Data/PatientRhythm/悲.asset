@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd009c6bd4dc31f4db329f6d24089ffd, type: 3}
+  m_Name: "\u60B2"
+  m_EditorClassIdentifier: 
+  timelist:
+  - 3.66
+  - 4.5
+  - 5.5
+  - 6.3
+  - 6.7
+  - 7.1
+  - 8
+  - 9
+  - 11.4
+  - 12.33
+  - 13.25
+  - 14
+  - 15
+  - 15.7
+  - 18.3
+  - 19.3
+  - 20.3
+  - 21
+  - 21.9
+  - 22.7
+  - 28.3
+  - 32.3
+  - 38.6

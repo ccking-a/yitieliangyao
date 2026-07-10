@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd140491f465fe848a4455fca4b2496f, type: 3}
+  m_Name: zhangtuhuGood
+  m_EditorClassIdentifier: 
+  lines:
+  - name: 
+    text: "\u5F20\u5C60\u6237\u63A5\u8FC7\u836F\u7897\uFF0C\u95FB\u4E86\u95FB"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5F20\u5C60\u6237"
+    text: "\u5927\u592B\uFF0C\u836F\u662F\u597D\u836F\uFF0C\u4E0D\u8FC7\u6211\u521A\u624D\u770B\u4F60\u6363\u836F\u7684\u65F6\u5019\uFF0C\u4E2D\u95F4\u6709\u51E0\u4E0B\u4E71\u4E86\u8282\u594F\uFF0C\u6211\u8FD9\u5FC3\u4E5F\u8DDF\u7740\u63EA\u4E86\u4E00\u4E0B\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: 
+    text: "\u4ED6\u559D\u5B8C\u836F\uFF0C\u7838\u4E86\u5482\u5634"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5F20\u5C60\u6237"
+    text: "\u8FD8\u884C\uFF0C\u559D\u4E86\u4E4B\u540E\u5934\u75BC\u786E\u5B9E\u8F7B\u4E86\u4E9B\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5F20\u5C60\u6237"
+    text: "\u5C31\u662F\u2026\u2026\u600E\u4E48\u8BF4\u5462\uFF0C\u611F\u89C9\u8FD9\u836F\u91CC\u6709\u70B9\u2018\u6BDB\u8E81\u2019\uFF0C\u8DDF\u6211\u813E\u6C14\u4F3C\u7684\u3002\u4E0B\u6B21\u6363\u836F\u7A33\u5F53\u70B9\uFF0C\u6211\u4E5F\u8DDF\u7740\u5FC3\u9759\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3

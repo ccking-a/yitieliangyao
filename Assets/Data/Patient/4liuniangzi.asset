@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb758947fdfe9a4e9b2fc80696ada39, type: 3}
+  m_Name: 4liuniangzi
+  m_EditorClassIdentifier: 
+  PatientName: "\u67F3\u5A18\u5B50"
+  PatientId: 4
+  Emotion: 3
+  Description: "\u4E08\u592B\u4ECE\u519B\u534A\u5E74\uFF0C\u65E5\u65E5\u4EE5\u6CEA\u6D17\u9762\u4F24\u4E86\u80BA\u6C14\u3002"
+  DiagnosisDialogue: {fileID: 11400000, guid: eb822ec0863a982418d28115bc624010, type: 2}
+  DiagnosisFailText: "\u5927\u592B\u2026\u2026\u6211\u611F\u89C9\u4E0D\u592A\u5BF9\u75C7\uFF1F"
+  SuccessDialog: {fileID: 11400000, guid: b8bffac5b0aeebc46ad3ab279868bfe9, type: 2}
+  GoodDialog: {fileID: 11400000, guid: a5248105e417d10428170c91cc31e84b, type: 2}
+  MissDialog: {fileID: 11400000, guid: 26ec2ba6b92e0884fb096197e2d59950, type: 2}
+  Sprite: {fileID: 21300000, guid: a46c1cea9745b1b4e9bfa3f093665c5d, type: 3}
+  lihui: {fileID: 21300000, guid: 6bdc002eb9f5af1409d0bcd95b598890, type: 3}
+  touxiang2: {fileID: 21300000, guid: f2f8098fb00a4ae4fb1e1ec5141af403, type: 3}
+  rhythmNote: {fileID: 11400000, guid: a49f68c9f5e905d4fa5c1acfb9e9ab52, type: 2}
+  TargetRhythmScore: 500
+  rhythmclip: {fileID: 8300000, guid: 220d83eb2d3c4bd45a50de2735dcf833, type: 3}
+  gift:
+    patient: {fileID: 11400000}
+    name: "\u67F3\u5A18\u5B50"
+    description: "\u4E00\u9488\u4E00\u7EBF\u7EE3\u7684\u9E33\u9E2F\u7EE3\u5E15\uFF0C\u6829\u6829\u5982\u751F\uFF0C\u60C5\u610F\u7EF5\u7EF5\u3002\u67F3\u5A18\u5B50\u7684\u592B\u541B\u4ECE\u8FB9\u5173\u6765\u4FE1\u62A5\u5E73\u5B89\uFF0C\u5979\u8FDE\u591C\u7EE3\u4E86\u8FD9\u5BF9\u9E33\u9E2F\u3002\u5979\u8BF4\u4F60\u662F\u9664\u4E86\u592B\u541B\u4E4B\u5916\uFF0C\u7B2C\u4E00\u4E2A\u8BA9\u5979\u91CD\u65B0\u7B11\u8D77\u6765\u7684\u4EBA\u3002"
+    sprite: {fileID: 21300000, guid: 7392345f3e5241248b74547eb12db263, type: 3}
+  difficulty: 0
+  thankYouFollowUpsWhenCured:
+  - visitorPatient: {fileID: 11400000}
+    daysAfterTreatment: 1
+    thankYouLines:
+    - name: "\u67F3\u5A18\u5B50"
+      text: "\u5927\u592B\uFF01\u6211\u4E0D\u54B3\u4E86\uFF0C\u6C14\u4E5F\u987A\u4E86\u3002\u8FD9\u526F\u9E33\u9E2F\u7EE3\u5E15\u662F\u6211\u8FDE\u591C\u7EE3\u7684\uFF0C\u9488\u9488\u90FD\u662F\u5FC3\u610F\u3002\u60A8\u6536\u597D\uFF01"
+      voiceClip: {fileID: 0}
+      expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+      typingCharsPerSecond: 30
+      autoNextDelay: 3

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd140491f465fe848a4455fca4b2496f, type: 3}
+  m_Name: liuniangziPerfect
+  m_EditorClassIdentifier: 
+  lines:
+  - name: 
+    text: "\u67F3\u5A18\u5B50\u63A5\u8FC7\u836F\u7897\uFF0C\u6CA1\u6709\u9A6C\u4E0A\u559D\uFF0C\u800C\u662F\u6367\u5728\u624B\u5FC3\u6123\u4E86\u7247\u523B\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u67F3\u5A18\u5B50"
+    text: "\u8FD9\u7897\u662F\u6E29\u7684\u2026\u2026\u4E0D\u662F\u70EB\uFF0C\u662F\u90A3\u79CD\u4ECE\u624B\u5FC3\u91CC\u6696\u8FDB\u6765\u7684\u6E29\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: 
+    text: "\u5979\u5C0F\u53E3\u559D\u5B8C\uFF0C\u95ED\u4E0A\u773C\u775B\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u67F3\u5A18\u5B50"
+    text: "\u8C22\u8C22\u5927\u592B\u3002\u8FD9\u836F\u559D\u4E0B\u53BB\uFF0C\u80F8\u53E3\u90A3\u5757\u77F3\u5934\u597D\u50CF\u88AB\u4EBA\u8F7B\u8F7B\u642C\u8D70\u4E86\u3002\u8FC7\u4E24\u65E5\u6211\u7EE3\u597D\u4E86\u65B0\u82B1\u6837\uFF0C\u7ED9\u60A8\u9001\u6765\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u67F3\u5A18\u5B50"
+    text: "\u60A8\u6363\u836F\u7684\u65F6\u5019\uFF0C\u6BCF\u4E00\u58F0\u90FD\u8F7B\u8F7B\u7684\uFF0C\u50CF\u6709\u4EBA\u5728\u95E8\u5916\u5019\u7740\uFF0C\u6015\u60CA\u7740\u6211\u3002\u597D\u4E45\u6CA1\u4EBA\u8FD9\u4E48\u5C0F\u5FC3\u5F85\u6211\u4E86\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3

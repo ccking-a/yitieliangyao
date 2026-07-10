@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe2b28a05a77694f97ea3fe7f72727a, type: 3}
+  m_Name: "\u6012\u9ED8\u8BA4\u836F\u65B9"
+  m_EditorClassIdentifier: 
+  emotion: 0
+  junHerbId: baishao
+  defaultChenId: chaihu
+  defaultZuoId: bohe
+  defaultShiId: gancao

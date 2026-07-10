@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd140491f465fe848a4455fca4b2496f, type: 3}
+  m_Name: liuniangziGood
+  m_EditorClassIdentifier: 
+  lines:
+  - name: 
+    text: "\u67F3\u5A18\u5B50\u63A5\u8FC7\u836F\u7897\uFF0C\u8F7B\u8F7B\u62BF\u4E86\u4E00\u53E3\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u67F3\u5A18\u5B50"
+    text: "\u836F\u662F\u597D\u836F\u2026\u2026\u4E0D\u8FC7\u4E2D\u95F4\u6709\u51E0\u6B21\u6363\u5F97\u91CD\u4E86\u4E9B\uFF0C\u6211\u542C\u7740\u5FC3\u53E3\u8DDF\u7740\u9707\u4E86\u4E00\u4E0B\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: 
+    text: "\u5979\u6162\u6162\u559D\u5B8C\uFF0C\u52C9\u5F3A\u7B11\u4E86\u7B11\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u67F3\u5A18\u5B50"
+    text: "\u8C22\u8C22\u5927\u592B\u2026\u2026\u6BD4\u524D\u4E9B\u5929\u5F3A\u4E9B\u3002\u5C31\u662F\u90A3\u80A1\u52B2\u513F\u4E0D\u592A\u5300\uFF0C\u6709\u65F6\u5019\u987A\uFF0C\u6709\u65F6\u5019\u5835\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 5886af35b76ae8849acfe91a4785327e, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3

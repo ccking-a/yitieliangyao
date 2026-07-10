@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3c0f0c43f4f4704eb88df1a7115938e, type: 3}
+  m_Name: "\u832F\u82D3"
+  m_EditorClassIdentifier: 
+  herbId: fuling
+  herbName: "\u832F\u82D3"
+  category: 6
+  herbIcon: {fileID: 21300000, guid: 6e8b453de7d701742a1c370b62bba73f, type: 3}
+  nature: 2
+  flavor: 02000000
+  efficacy: "\u5229\u6C34\u6E17\u6E7F\uFF0C\u5065\u813E\u5B81\u5FC3"
+  channelTropism: 000000000200000004000000
+  interactions: []
+  baseScore: 0
+  unlockChapter: 0
+  price: 0

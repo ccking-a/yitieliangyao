@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3c0f0c43f4f4704eb88df1a7115938e, type: 3}
+  m_Name: "\u8089\u6842"
+  m_EditorClassIdentifier: 
+  herbId: rougui
+  herbName: "\u8089\u6842"
+  category: 8
+  herbIcon: {fileID: 21300000, guid: 80ebf72e27b818543b87de8a778d40e7, type: 3}
+  nature: 4
+  flavor: 0300000002000000
+  efficacy: "\u8865\u706B\u52A9\u9633\uFF0C\u6563\u5BD2\u6B62\u75DB\uFF0C\u6E29\u901A\u7ECF\u8109"
+  channelTropism: 04000000020000000000000001000000
+  interactions: []
+  baseScore: 0
+  unlockChapter: 0
+  price: 0

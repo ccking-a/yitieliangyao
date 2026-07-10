@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd140491f465fe848a4455fca4b2496f, type: 3}
+  m_Name: suhuashiMiss
+  m_EditorClassIdentifier: 
+  lines:
+  - name: 
+    text: "\u82CF\u753B\u5E08\u63A5\u8FC7\u836F\u7897\uFF0C\u624B\u6296\u5F97\u6D12\u4E86\u4E00\u534A\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d68d06b9c1cdcfa4b96544f6650d336d, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u82CF\u753B\u5E08"
+    text: "\u60A8\u521A\u624D\u6363\u5F97\u5FFD\u8F7B\u5FFD\u91CD\u7684\u2026\u2026\u6211\u542C\u7740\u66F4\u4E71\u4E86\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d68d06b9c1cdcfa4b96544f6650d336d, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: 
+    text: "\u4ED6\u653E\u4E0B\u7897\uFF0C\u58F0\u97F3\u53D1\u98A4"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d68d06b9c1cdcfa4b96544f6650d336d, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u82CF\u753B\u5E08"
+    text: "\u8FDE\u6363\u836F\u7684\u58F0\u97F3\u90FD\u5728\u6253\u67B6\u3002\u7B97\u4E86\uFF0C\u6211\u518D\u60F3\u60F3\u5427\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d68d06b9c1cdcfa4b96544f6650d336d, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb758947fdfe9a4e9b2fc80696ada39, type: 3}
+  m_Name: 1zhangtuhu
+  m_EditorClassIdentifier: 
+  PatientName: "\u5F20\u5C60\u6237"
+  PatientId: 1
+  Emotion: 0
+  Description: "\u57CE\u4E2D\u5C60\u6237\uFF0C\u6027\u683C\u706B\u7206\u803F\u76F4\u3002\u56E0\u5BB6\u4E2D\u7410\u4E8B\u79EF\u90C1\uFF0C\u809D\u6C14\u4E0D\u8212\u800C\u5316\u706B\u3002"
+  DiagnosisDialogue: {fileID: 11400000, guid: a1b02291b64b4ec408c5306147f6311b, type: 2}
+  DiagnosisFailText: "\u5927\u592B\uFF0C\u6211\u8FD9\u75C7\u72B6\u2026\u2026\u4F60\u786E\u5B9A\u662F\u8FD9\u4E2A\uFF1F"
+  SuccessDialog: {fileID: 11400000, guid: db9a3636697102a439bc8bba032f0918, type: 2}
+  GoodDialog: {fileID: 11400000, guid: c9fe97e1ff4383d4f8f3be217a8682ad, type: 2}
+  MissDialog: {fileID: 11400000, guid: 2a43d556c316188498ad1cd0159f9c3b, type: 2}
+  Sprite: {fileID: 21300000, guid: 8fcab692ca211e64aa4059857f363956, type: 3}
+  lihui: {fileID: 21300000, guid: ec27f4d3023ff46499dc5ae2dfd0e3ac, type: 3}
+  touxiang2: {fileID: 21300000, guid: 1d3a41380750ce045bb83c27b3e5ba02, type: 3}
+  rhythmNote: {fileID: 11400000, guid: 8422bef99d8b0b044b9801acea39c307, type: 2}
+  TargetRhythmScore: 0
+  rhythmclip: {fileID: 8300000, guid: 4c6b7c4d60e00b44c92ed3910275ccb3, type: 3}
+  gift:
+    patient: {fileID: 11400000}
+    name: "\u5F20\u5C60\u6237"
+    description: "\u5F20\u5C60\u6237\u4EB2\u624B\u5364\u7684\u732A\u5934\u8089\uFF0C\u9171\u9999\u6D53\u90C1\uFF0C\u8F6F\u70C2\u5165\u5473\u3002\u5F20\u5C60\u6237\u8BF4\u8FD9\u662F\u4ED6\u8001\u5A18\u4F20\u4E0B\u6765\u7684\u5364\u65B9\uFF0C\u4ECE\u4E0D\u5916\u9001\u3002\u4F60\u6CBB\u597D\u4E86\u4ED6\u7684\u66B4\u813E\u6C14\uFF0C\u4ED6\u5AB3\u5987\u7279\u610F\u6311\u4E86\u4E2A\u6700\u5927\u7684\u732A\u5934\u5364\u7ED9\u4F60\u3002"
+    sprite: {fileID: 21300000, guid: df4ad23d08c0e934bbbb5c6f62b1531e, type: 3}
+  difficulty: 1
+  thankYouFollowUpsWhenCured:
+  - visitorPatient: {fileID: 11400000}
+    daysAfterTreatment: 1
+    thankYouLines:
+    - name: "\u5F20\u5C60\u6237"
+      text: "\uFF08\u6320\u5934\u61A8\u7B11\uFF09\u54CE\u5440\u5927\u592B\uFF0C\u5403\u4E86\u4F60\u7684\u836F\uFF0C\u8FD9\u4E24\u5929\u5934\u4E0D\u75BC\u4E86\uFF0C\u89C9\u4E5F\u7761\u5F97\u9999\u4E86\uFF01\u6211\u5AB3\u5987\u90FD\u8BF4\u6211\u813E\u6C14\u597D\u591A\u4E86\u3002"
+      voiceClip: {fileID: 0}
+      expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+      typingCharsPerSecond: 30
+      autoNextDelay: 3
+    - name: "\u5F20\u5C60\u6237"
+      text: "\u8FD9\u4E0D\uFF0C\u7ED9\u4F60\u5E26\u4E86\u70B9\u5364\u732A\u5934\u8089\uFF0C\u522B\u5ACC\u5F03\u554A\uFF01"
+      voiceClip: {fileID: 0}
+      expressionSprite: {fileID: 21300000, guid: 6295a879ac712ba40b10f62eaed6bdbd, type: 3}
+      typingCharsPerSecond: 30
+      autoNextDelay: 3

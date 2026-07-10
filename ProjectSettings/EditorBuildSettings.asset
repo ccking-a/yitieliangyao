@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameStart.unity
+    guid: 4a257801ba84f1741951408519603801
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Clinic.unity
+    guid: ec9f7a5646e2bf94e8223ccea66b1b67
+  - enabled: 1
+    path: Assets/Scenes/Diagnosis.unity
+    guid: 787fe844dc3fbc843b853f6f74f30953
+  - enabled: 1
+    path: Assets/Scenes/MakeHerb.unity
+    guid: abc3a812adf363c4ba26865bef4dc7b3
+  - enabled: 1
+    path: Assets/Scenes/Book.unity
+    guid: 632da063d2433f74db691375ed3c7caa
+  m_configObjects: {}

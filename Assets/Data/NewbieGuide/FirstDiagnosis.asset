@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93184de2b3047f74f87ac75b0e9baf40, type: 3}
+  m_Name: FirstDiagnosis
+  m_EditorClassIdentifier: 
+  lines:
+  - name: "\u5E08\u5085"
+    text: "\u55EF\uFF0C\u5BF9\u4E86\u3002\u6B64\u4EBA\u9762\u8272\u7EA2\u9ED1\u3001\u76EE\u8D64\u6613\u6012\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5E08\u5085"
+    text: "\u662F\u5178\u578B\u7684\u300E\u6012\u4F24\u809D\u300F\u3002\u809D\u4E3B\u758F\u6CC4\uFF0C\u6012\u5219\u6C14\u4E0A\u2026\u2026"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2
+  - name: "\u5E08\u5085"
+    text: "\u6211\u4EEC\u8FD9\u836F\u65B9\u91CC\u4E13\u95E8\u51C6\u5907\u4E86\u758F\u809D\u89E3\u90C1\u7684\u836F\uFF0C\u5F85\u4F1A\u4F60\u6839\u636E\u75C5\u4EBA\u7684\u53D9\u8FF0\u9009\u62E9\u836F\u65B9\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5E08\u5085"
+    text: "\u8BB0\u4F4F\uFF0C\u6012\u4F24\u809D\uFF0C\u809D\u4E3B\u758F\u6CC4\uFF0C\u4ED6\u53CC\u76EE\u8D64\u7EA2\u3001\u80C1\u808B\u80C0\u75DB\uFF0C\u6B63\u662F\u809D\u6C14\u90C1\u7ED3\u4E4B\u8C61\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5E08\u5085"
+    text: "\u4F60\u770B\uFF0C\u767D\u828D\u517B\u8840\u67D4\u809D\uFF0C\u67F4\u80E1\u758F\u809D\u89E3\u90C1\uFF0C\u8FD9\u4E24\u5473\u662F\u7ECF\u5178\u836F\u5BF9\u3002\u5F85\u4F1A\u8FDB\u4E86\u836F\u5323\uFF0C\u4F60\u8BD5\u8BD5\u628A\u5B83\u4EEC\u914D\u5728\u4E00\u8D77\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u5E08\u5085"
+    text: "\u8FD9\u914D\u836F\u4E5F\u8BB2\u7A76\u541B\u81E3\u4F50\u4F7F\u3002\u541B\u836F\u4E3B\u653B\u75C5\u6839\uFF0C\u81E3\u836F\u8F85\u52A9\u541B\u836F\uFF0C\u4F50\u836F\u5236\u6BD2\u6027\uFF0C\u4F7F\u836F\u5F15\u836F\u5F52\u7ECF\uFF0C\u8C03\u548C\u8BF8\u836F\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2
+  - name: "\u5E08\u5085"
+    text: "\u4F60\u5148\u7167\u7740\u836F\u65B9\u6293\u836F\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2
+  - name: "\u5E08\u5085"
+    text: "\u7B49\u4F60\u4EE5\u540E\u719F\u7EC3\u914D\u836F\u4E4B\u540E\uFF0C\u53EF\u4EE5\u81EA\u5DF1\u4FEE\u6539\u836F\u65B9\uFF0C\u8BF4\u4E0D\u5B9A\u6709\u5947\u6548\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2
+  - name: "\u5E08\u5085"
+    text: "\u597D\u4E86\uFF0C\u6211\u4E0D\u591A\u8BF4\u4E86\u3002\u4F60\u6765\u8BD5\u4E00\u6B21\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: 939ba8ae874633244b43cdcfec290754, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2
+  - name: 
+    text: "\u70B9\u51FB\u5BF9\u5E94\u60C5\u7EEA\u524D\u5F80\u836F\u5323\u914D\u836F"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 0}
+    typingCharsPerSecond: 30
+    autoNextDelay: 2

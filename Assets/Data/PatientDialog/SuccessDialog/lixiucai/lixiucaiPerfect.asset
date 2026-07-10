@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd140491f465fe848a4455fca4b2496f, type: 3}
+  m_Name: lixiucaiPerfect
+  m_EditorClassIdentifier: 
+  lines:
+  - name: 
+    text: "\u674E\u79C0\u624D\u63A5\u8FC7\u836F\u7897\uFF0C\u6DF1\u6DF1\u5438\u4E86\u4E00\u53E3\u6C14"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d7f6ed8955365bf4f8bed1c52cf12d68, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u674E\u79C0\u624D"
+    text: "\u8FD9\u836F\u9999\u8BA9\u4EBA\u80C3\u53E3\u5927\u5F00\uFF01\u542C\u60A8\u6363\u836F\u7684\u58F0\u97F3\uFF0C\u4E00\u4E0B\u4E00\u4E0B\u7A33\u7A33\u7684\uFF0C\u6211\u8FD9\u809A\u5B50\u597D\u50CF\u8DDF\u7740\u52A8\u8D77\u6765\u4E86\u3002"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d7f6ed8955365bf4f8bed1c52cf12d68, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: 
+    text: "\u4ED6\u6162\u6162\u559D\u5B8C\uFF0C\u773C\u775B\u4EAE\u4E86"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d7f6ed8955365bf4f8bed1c52cf12d68, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u674E\u79C0\u624D"
+    text: "\u50CF\u6709\u4E00\u53CC\u6696\u624B\u5728\u63C9\u6211\u7684\u809A\u5B50\u3002\u597D\u4E45\u6CA1\u8FD9\u4E48\u8212\u670D\u4E86\uFF01"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d7f6ed8955365bf4f8bed1c52cf12d68, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
+  - name: "\u674E\u79C0\u624D"
+    text: "\u5B66\u751F\u80C3\u53E3\u5927\u5F00\uFF0C\u7CBE\u795E\u4E5F\u597D\u591A\u4E86\uFF01\u591A\u8C22\u5927\u592B\uFF01\u8FC7\u4E24\u65E5\u7ED9\u60A8\u5E26\u72B6\u5143\u7CD5\u6765\uFF01"
+    voiceClip: {fileID: 0}
+    expressionSprite: {fileID: 21300000, guid: d7f6ed8955365bf4f8bed1c52cf12d68, type: 3}
+    typingCharsPerSecond: 30
+    autoNextDelay: 3
